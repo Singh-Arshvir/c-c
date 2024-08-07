@@ -1,4 +1,4 @@
-# dsa-by-arshvirt-in-c-
+# questions of c 
 pattern one is solid reactangle pattern
 pattern two is hollow rectangle pattern
 pattern three is half pyramid 
